@@ -27,8 +27,8 @@ class _MyAppState extends State<MyApp> {
           type: BottomNavigationBarType.fixed,
           selectedItemColor: Colors.white,
           unselectedItemColor: Colors.white30,
-          selectedLabelStyle: TextStyle(fontSize: 17.0),
-          unselectedLabelStyle: TextStyle(fontSize: 15.00),
+          selectedLabelStyle: TextStyle(fontSize: 11.00),
+          unselectedLabelStyle: TextStyle(fontSize: 10.00),
         ),
       ),
       home: const Scaffold(
